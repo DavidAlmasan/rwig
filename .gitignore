@@ -1,0 +1,10 @@
+/figures/
+/data/
+/datasets/
+/weights/
+/venv/
+/experiments/
+*.pyc
+*.pth
+*.pt
+*.ps1
