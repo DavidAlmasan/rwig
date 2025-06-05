@@ -9,5 +9,4 @@ Python repository for RWIG models
 # How contact graphs are generated
 The colocation principle assumes that walkers that are at the same node in the underlying graph at the same time are connected in their contact graph
 
-https://github.com/user-attachments/assets/9d2b44c7-2d84-426c-9365-723a29cde6a1
-
+![451394295-9d2b44c7-2d84-426c-9365-723a29cde6a1 (1)](https://github.com/user-attachments/assets/38838436-07f3-4b45-8504-aa258f6f9947)
